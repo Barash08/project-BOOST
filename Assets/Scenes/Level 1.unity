@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 460936004}
   - component: {fileID: 460936003}
   m_Layer: 0
-  m_Name: Left Booster
+  m_Name: Right Booster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -188,7 +188,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2f7bee434a26f774ea9838dd6943141d, type: 2}
+  - {fileID: 2100000, guid: db7a53e06758b8541b13e7c8d8020a07, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 544781656}
   - component: {fileID: 544781655}
   m_Layer: 0
-  m_Name: Right Booster
+  m_Name: Left Booster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -283,7 +283,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2f7bee434a26f774ea9838dd6943141d, type: 2}
+  - {fileID: 2100000, guid: a45300a8fcf0ed7499aaaba8606aad9f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
